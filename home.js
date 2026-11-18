@@ -86,6 +86,22 @@
 // (()=>{
 //     console.log("Arrow IIFE works too!");
 // })();
+
+
+// //Callback function
+// function mainfunction(Callback){
+//     Callback()
+//     console.log('task start');
+// }
+// function greet(){
+//     console.log('hello');
+// }
+// mainfunction(greet);
+
+
+
+
+
 //Callback function
 function mainfunction(Callback){
     Callback()
